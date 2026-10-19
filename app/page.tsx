@@ -7,6 +7,7 @@ export default function Home() {
       <ul>
         <li><Link href="/login">Login</Link></li>
         <li><Link href="/dashboard">User dashboard</Link></li>
+        <li><Link href="/contact">Contact</Link></li>
       </ul>
     </main>
   );
